@@ -30,6 +30,7 @@ Custom domain name is hosted on Cloudflare. Resume site (https) is setup with SS
 
 
 
+![aws-resume-challenge](https://user-images.githubusercontent.com/116681627/223209114-e404145d-ab03-4490-9470-d9d0d103cbb8.png)
 
 
 
