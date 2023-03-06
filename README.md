@@ -24,6 +24,9 @@ Custom domain name is hosted on Cloudflare. Resume site (https) is setup with SS
 
 ## Third Steps:
 - Built a GitHub CI/CD pipeline for easy website updating.
+- Created CodePipeline in AWS
+- Connected CodePipeline to GitHub repo.
+- Changes will now be made in VSCode which gets commited to GitHub which triggers the workflow to Codepipeline and uploads changed files to S3 bucket.
 
 
 
